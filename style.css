@@ -1,0 +1,28 @@
+div{
+    border: 1px solid lightgrey;
+}
+#btn {
+    margin: 12px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+}
+#btn-left {
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid lightgray;
+
+}
+.but {
+    border: none;
+}
+.content {
+    margin: 10px;
+    border: none;
+}
+.left {
+    border: none;
+    margin-left: 5px;
+}
